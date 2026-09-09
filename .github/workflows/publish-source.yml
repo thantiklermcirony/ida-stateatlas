@@ -1,0 +1,39 @@
+name: Publish reviewed source
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Verify and publish the reviewed source snapshot
+        run: |
+          python - <<'PY'
+          from pathlib import Path, PurePosixPath
+          import hashlib, zipfile
+          archive = Path('ida-publication-source.zip')
+          assert hashlib.sha256(archive.read_bytes()).hexdigest() == 'e81e7987ea476c1a059f39489eb20e22e18ad2f0908e24328c5a0de9effc4755'
+          with zipfile.ZipFile(archive) as z:
+              assert z.testzip() is None
+              for item in z.infolist():
+                  rel = PurePosixPath(item.filename)
+                  assert not rel.is_absolute() and '..' not in rel.parts
+                  assert rel.parts[0] != '.git'
+                  assert rel.parts[:2] != ('.github', 'workflows')
+                  if item.is_dir():
+                      continue
+                  target = Path(*rel.parts)
+                  target.parent.mkdir(parents=True, exist_ok=True)
+                  target.write_bytes(z.read(item))
+          archive.unlink()
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --all
+          git commit -m "Publish The Empirical Architecture programme source"
+          git push
