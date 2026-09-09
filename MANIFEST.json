@@ -1,0 +1,23 @@
+{
+  "source_commit": "52937c5e9f2297d03f250986574dd813c9d22907",
+  "source_version": "0.2.0",
+  "files_in_zip": 130,
+  "source_zip_integrity": "passed",
+  "credential_scan": "No selected credential filename/token/private-key signatures found; not an exhaustive secrets audit.",
+  "validation_this_task": {
+    "node_tests": 15,
+    "python_tests": 13,
+    "bundle_verify": "passed"
+  },
+  "validation_previous_task": "TypeScript and production build passed at the same source commit; not rerun in this handoff.",
+  "files": {
+    "StateAtlas_IDA_v0.2.bundle": {
+      "bytes": 373535,
+      "sha256": "7b399a699996efc2eb76c7074f2b28ebde71f417d041633b9154bc44db5b76d8"
+    },
+    "StateAtlas_IDA_v0.2_Project.zip": {
+      "bytes": 415259,
+      "sha256": "36bf846b29beca928c63d79e2194d42fca46f43e67b366a76efdbf62e42a813d"
+    }
+  }
+}
