@@ -1,0 +1,16 @@
+{
+  "revision":"R1-0.2",
+  "status":"Engineering bill of materials; no items ordered, no current price quotes, no qualified substitutions",
+  "items":[
+    {"id":"B01","quantity":1,"item":"OpenBCI Cyton 8-channel kit","requirement":"OEM board, dongle, supplied case, compatible battery and charger; verify actual revision","source":"https://docs.openbci.com/Cyton/CytonSpecs/"},
+    {"id":"B02","quantity":12,"item":"Commercial EEG/EOG contact electrodes and compatible leads","requirement":"6 EEG, 4 bipolar EOG contacts, reference and bias; contact type chosen with research team","source":"https://docs.openbci.com/GettingStarted/Boards/CytonGS/"},
+    {"id":"B03","quantity":1,"item":"Manufacturer-compatible touch-proof adapter set","requirement":"Enough connections for mixed montage; connector and polarity audit required","source":"https://docs.openbci.com/GettingStarted/Boards/CytonGS/"},
+    {"id":"B04","quantity":1,"item":"Adjustable 20 mm textile band","requirement":"520–640 mm intended fit envelope; soft interface, release and cleaning assessment","source":"IDA proposed requirement"},
+    {"id":"B05","quantity":6,"item":"Removable electrode carriers","requirement":"Match selected commercial contact diameter; avoid concentrated pressure","source":"IDA proposed requirement"},
+    {"id":"B06","quantity":1,"item":"Prototype OEM-case carrier","requirement":"Parametric drawing; measure actual case before fit revision; retain original insulating case","source":"engineering/mechanical/carrier.scad"},
+    {"id":"B07","quantity":1,"item":"Retention and lead-management set","requirement":"20 mm hook-and-loop retention, strain relief, labelled leads, removable contact consumables","source":"IDA proposed requirement"},
+    {"id":"B08","quantity":1,"item":"Host computer and manufacturer acquisition software","requirement":"Local storage, event logging, software-version manifest; existing equipment may suffice","source":"https://docs.openbci.com/GettingStarted/Boards/CytonGS/"},
+    {"id":"B09","quantity":1,"item":"Calibrated biopotential test source / phantom access","requirement":"Bench signal, noise, loading and timing acceptance; not connected to a person","source":"IDA verification requirement"},
+    {"id":"B10","quantity":1,"item":"Optional independent ECG/respiration reference system","requirement":"Separate validated device and synchronized events; no cross-device electrode wiring","source":"IDA optional research module"}
+  ]
+}

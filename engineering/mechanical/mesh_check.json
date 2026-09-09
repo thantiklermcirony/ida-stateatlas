@@ -1,0 +1,13 @@
+{
+  "triangles": 48,
+  "vertices": 24,
+  "closed_oriented_edges": true,
+  "volume_mm3": 15648.0,
+  "expected_volume_mm3": 15648,
+  "bounds_mm": [
+    88,
+    88,
+    8
+  ],
+  "verification": "Analytic mesh/topology only. Not sliced, fabricated, fit-tested or stress-tested."
+}

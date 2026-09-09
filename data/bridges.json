@@ -1,0 +1,10 @@
+[
+ {"from":"State sufficiency","to":"Measurement selection","type":"Logical dependency","question":"Do histories with the same reading have different future responses?","test":"Hold out new people, sessions, histories or biological batches."},
+ {"from":"Viable action","to":"Probe selection","type":"Decision method","question":"Would learning this distinction change an acceptable decision?","test":"Compare net decision loss with and without the probe, including its cost."},
+ {"from":"IDA recovery","to":"Mental-health relief","type":"Empirical hypothesis","question":"Does return geometry add useful information about later symptoms or function?","test":"Independent future endpoints; no success defined solely by the target sensor."},
+ {"from":"Addressed updating","to":"Phase-dependent inputs","type":"Empirical hypothesis","question":"Does the useful intervention depend on the retrieved context and the phase of updating?","test":"Randomize timing or sequencing; test later cue-specific and general outcomes."},
+ {"from":"Redox capacity","to":"IDA capacity hypotheses","type":"Experimental analogy","question":"Can an apparently normal output conceal impaired regulation?","test":"Use separate calibrated mechanisms and probes in each domain; do not transfer coefficients."},
+ {"from":"Hormesis","to":"Durable adaptation","type":"Model-dependent extension","question":"Does an acute response alter later capacity, and at what cost?","test":"Separate induction, functional transmission, withdrawal, and rechallenge."},
+ {"from":"Temporal architecture","to":"Intervention ordering","type":"Programme dependency","question":"Do equal totals but different schedules create different reachable futures?","test":"Compare sequences under matched exposure with explicit waiting dynamics."},
+ {"from":"AI evidence authority","to":"Every research output","type":"Engineering requirement","question":"What does this record actually authorize us to say or do?","test":"Reject unsupported strengthening, missing comparators, and out-of-scope treatment claims."}
+]

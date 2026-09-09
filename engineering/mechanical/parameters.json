@@ -1,0 +1,15 @@
+{
+  "units": "mm",
+  "status": "Assumed fit parameters; actual OEM case and electrode geometry not measured",
+  "case_x": 76,
+  "case_y": 76,
+  "clearance_per_side": 1,
+  "rail_width": 5,
+  "frame_height": 8,
+  "lip_height": 2,
+  "lip_width": 4,
+  "strap_width": 20,
+  "contact_hole_diameter": 9,
+  "head_circumference_min": 520,
+  "head_circumference_max": 640
+}

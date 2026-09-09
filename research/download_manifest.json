@@ -1,0 +1,1259 @@
+{
+  "dataset_doi": "10.13026/x3vc-p627",
+  "retrieved_utc": "2026-09-07T12:17:07.557274+00:00",
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/LICENSE.txt",
+      "bytes": 25815,
+      "sha256": "bcdfcd4f31c790e30fb645dc36414907172405897adff329ad379eed85d12017",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p01resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p01resman.csv",
+      "bytes": 6677,
+      "sha256": "7a23b651ce7ec0a5e60c07ed4db4ce12bc575d2dbd54ec685b1e7cc3a6973341",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p02resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p02resman.csv",
+      "bytes": 6455,
+      "sha256": "4e44dfdf1c33edf4af4df688763230bec13f7a6df4da794dd73914d3b2e68daf",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p03resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p03resman.csv",
+      "bytes": 6724,
+      "sha256": "e89104750de4dc2d5a18e49c2e08dd39d10f1a2f2ffc9427fbd394c1eda351a5",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p04resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p04resman.csv",
+      "bytes": 6571,
+      "sha256": "ce6beaaa339d3d1fed0b2ff2cec8cfa751a16b3197a4adbfe1a25ce3fb30379b",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p05resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p05resman.csv",
+      "bytes": 6514,
+      "sha256": "3930d40906bba62b5f4e1c9389b1c2d8434054e6d17ee2d967389f2b919c83ef",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p06resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p06resman.csv",
+      "bytes": 6257,
+      "sha256": "7fa348838c18edf911785a98a5993d008ab9703755cb8f7d9a94a258280d728a",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p07resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p07resman.csv",
+      "bytes": 6272,
+      "sha256": "6d72aeccd7c35b1616426c2ccf62e5c3a0fa24ef9b4802f3904bb76a01a7262f",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p08resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p08resman.csv",
+      "bytes": 6543,
+      "sha256": "de7581fb2aabd230e8b2b9447c20afaf9238b5648abb7fbd4b982c5319a69025",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p09resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p09resman.csv",
+      "bytes": 6597,
+      "sha256": "649153eabf3164836ee09a811893d54d7a63eab3dcae632af2db5557f3eb4bf8",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p10resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p10resman.csv",
+      "bytes": 6543,
+      "sha256": "2f177ad7182b535b1457cd91994770836bce7099252715b9ab2d93859325877d",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p11resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p11resman.csv",
+      "bytes": 6697,
+      "sha256": "47d271b1fbfe0661c7dbcedf0c9ef72d8d586c011003e30a01d0d47c70e01439",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p12resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p12resman.csv",
+      "bytes": 6673,
+      "sha256": "964c92ffa2db5a28b4a87d01ba431789b035c364aa250b704ffd8837a780c668",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p13resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p13resman.csv",
+      "bytes": 6375,
+      "sha256": "cc2d89dbda10910c45f62eb269fd2f31f05928045cbf5cd6120925e023f385c3",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p15resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p15resman.csv",
+      "bytes": 6493,
+      "sha256": "24fa5877ea072ff7e51fadea15f3d852d707720e17c6922d8e6c2a36f0dfea32",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p16resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p16resman.csv",
+      "bytes": 6634,
+      "sha256": "d11cb48ee54c4a7c9ce90ac4b8ed6cc54b56e69ea25cf2c68811abf8286c3abc",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p17resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p17resman.csv",
+      "bytes": 6729,
+      "sha256": "85c99b67ac35dd92b8006819d25a5b5fe5718c5f56fc387a593584259eac47b7",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p18resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p18resman.csv",
+      "bytes": 6586,
+      "sha256": "1c57f4d685b873e689dbd1c48bbde83f49ae8b326be1503255bfdff36cf67413",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p19resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p19resman.csv",
+      "bytes": 6524,
+      "sha256": "aa4a971909f96102a342f917c1fa7649a278527dd365fa8e174a9347ccc2156f",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p20resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p20resman.csv",
+      "bytes": 6523,
+      "sha256": "15abfd526be6eb7c0ae82498173c6be2c9bb209f5346abbacc866e13540b67f3",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p21resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p21resman.csv",
+      "bytes": 6440,
+      "sha256": "2b19e9f7230c14bf8aa28ee0661b8ed3caf8326efd5dfdf401ea110f64246b15",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p22resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p22resman.csv",
+      "bytes": 6507,
+      "sha256": "a415ca46ee108ecb116330d0a363adad076ee948af10706c95b49c8812372f16",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p24resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p24resman.csv",
+      "bytes": 6558,
+      "sha256": "94b387c76a18633e34aa54a0d012e656fb642324aa1dc022f46095c4c94ceb46",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p25resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p25resman.csv",
+      "bytes": 6436,
+      "sha256": "e53b786d6936768751994a62ce668b4350cf9e5b3de078248b3e6ede406e135c",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p26resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p26resman.csv",
+      "bytes": 6276,
+      "sha256": "c8efab064aa1404830dc1fc17129b219913a3b30e9c55eccabe2a4df55744535",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p27resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p27resman.csv",
+      "bytes": 6574,
+      "sha256": "7af32584e559882a1ccc89de422cf7da7467496acc65d13bf0ff9155b0045297",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p28resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p28resman.csv",
+      "bytes": 6430,
+      "sha256": "d6ce28e58103edd2dfb8cb7ca205fc2e3058337a829f68341646a0e6c4d12fdf",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p29resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p29resman.csv",
+      "bytes": 6555,
+      "sha256": "fe994b09f60ede882dbd5ce1b2425b3b65c61205c0184013302f6c735f97f960",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p30resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p30resman.csv",
+      "bytes": 6757,
+      "sha256": "fd7634475a18967aee51ffee8424100e076cf2f4e653f4a012d1d4f7dbde8eef",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p31resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p31resman.csv",
+      "bytes": 6651,
+      "sha256": "62267e503481f71d0dec4c65a6ec698fb83f605615c6d398c007b54797ff113e",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p32resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p32resman.csv",
+      "bytes": 6489,
+      "sha256": "c01f6bfcd252a77a46c0fbc7cfd9effaa15c70f5ea8d1a912e17006c0d7ecf3a",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p33resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p33resman.csv",
+      "bytes": 6346,
+      "sha256": "5a4b0ee395292f6e353e46014d77b3365fcc6863a688d641357b4e6be207eb2c",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p34resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p34resman.csv",
+      "bytes": 6449,
+      "sha256": "2a38bda6327797a63227809831c52d64c60410b72dc5a6416669a5a9e4e16e36",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p35resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p35resman.csv",
+      "bytes": 6677,
+      "sha256": "720f8ffb82b98b3c5934ebf9f35e535ef5586375b8c4c999f9ccac0f7c7f9fcf",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p36resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p36resman.csv",
+      "bytes": 6611,
+      "sha256": "001e45b0fbc41545259d3c3c8ce3df35e2f6a92d76ef1c81d5edd612512d776e",
+      "published_hash_match": true
+    },
+    {
+      "path": "MATB-II/p37resman.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/MATB-II/p37resman.csv",
+      "bytes": 6496,
+      "sha256": "2416ae2bbe5197c0ed467e3568609ecaeecbbbdeca387a69ba251968b01bc411",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p01/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p01/EDA.csv",
+      "bytes": 69471,
+      "sha256": "e0a3878119c07551db9fab3ee0ed60dea7d8ae1a3ba72eb38031972762224650",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p01/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p01/HR.csv",
+      "bytes": 13381,
+      "sha256": "3ca3d29524b194dc88c866a4b19f7ee07031c7e6da2cd88bd4adf72b339d202c",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p01/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p01/IBI.csv",
+      "bytes": 1246,
+      "sha256": "7d26c25e808113086dde5a9c60188792bf9b32f2b1c025e4bff728eb45dd47d3",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p01/info.txt",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p01/info.txt",
+      "bytes": 1544,
+      "sha256": "360ca301745b9e85bb0c3700f8f59b4d2f3926da81673903832c9afb6b80e36f",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p01/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p01/tags.csv",
+      "bytes": 14,
+      "sha256": "82b3c8ea73d2ad347d62d89fe571ffb419a3d4be11c5f41b6e7ffce4bcdd599a",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p02/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p02/EDA.csv",
+      "bytes": 71901,
+      "sha256": "e8d734467a16998a3d5a53b08897e122ae6d1894188effb55841f61ccd6a43c3",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p02/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p02/HR.csv",
+      "bytes": 13195,
+      "sha256": "5734fa82eefb140aa1eccaed31d97d6bcb0d1229771fbcdd00c09db3f3180ba5",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p02/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p02/IBI.csv",
+      "bytes": 630,
+      "sha256": "1fc5c33f07071b1e08177dec487e5655d64568c78582a52abebdcb5fa734e4b4",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p02/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p02/tags.csv",
+      "bytes": 28,
+      "sha256": "1e5a8b249a3504647f7d347c9575ca73672e94f6b8f3d344844fb07ba186b0f7",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p03/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p03/EDA.csv",
+      "bytes": 70497,
+      "sha256": "18cc6a6f9a85bd5276baa90838d828afa7594dcbd6d409430825e5d85b8f592a",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p03/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p03/HR.csv",
+      "bytes": 12703,
+      "sha256": "d57897f0102f198e65d9f3fda9f49b3c4f0f17df001b94219fc584502a826525",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p03/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p03/IBI.csv",
+      "bytes": 1223,
+      "sha256": "3960081e85b98db770e6077b82126c8faab47b64fa408e91eeba452bf5080516",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p03/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p03/tags.csv",
+      "bytes": 14,
+      "sha256": "77ac9fd7d7c08e96646507bee239f718c4a506963b4935e4906a0f4c793b5bed",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p04/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p04/EDA.csv",
+      "bytes": 68337,
+      "sha256": "6a2ba4d3d7379683f74bda416e3cc65d1744ffacd32c403bc7bd67c6d75d39b7",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p04/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p04/HR.csv",
+      "bytes": 11367,
+      "sha256": "acb827ef7bbbbe2150a12df6b46ce24f62ed6d104a1fd769ac042ceb44445ef0",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p04/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p04/IBI.csv",
+      "bytes": 31933,
+      "sha256": "b53c24c03f23896dc12e370037da78077d0801521915f208bfcb355f33c73c70",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p04/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p04/tags.csv",
+      "bytes": 14,
+      "sha256": "5a3ab58fdcbe5bd95606b8ea935ce9d3e4b42c5236b90e2b1a83d2adf6f14385",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p05/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p05/EDA.csv",
+      "bytes": 68229,
+      "sha256": "1e960cf1caaed94358f1f6bb13d3715db045e9d5ddb65a0c26740da549d7d306",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p05/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p05/HR.csv",
+      "bytes": 11345,
+      "sha256": "45178615e2db57dd8ac8797b3bd641db6b091f9b29ee76f1186a89a780912893",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p05/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p05/IBI.csv",
+      "bytes": 45537,
+      "sha256": "b4552b6d0160cd18b3883904fc88e26ad234852ea1d069376fd6021cdc267b73",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p05/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p05/tags.csv",
+      "bytes": 14,
+      "sha256": "33e93ce60205c358f98b8ddf8c10c0a253a8d6f4525f9675c185b0bad6f810e0",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p06/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p06/EDA.csv",
+      "bytes": 68661,
+      "sha256": "ecc80ad4734def57b2982e2b70ce9b3b29ea5547ef092e455f357cfba51dd97e",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p06/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p06/HR.csv",
+      "bytes": 11415,
+      "sha256": "1dbeca8b16ac24b8d37871c7b04db669e670d59d55c0f50da79c885234e964d2",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p06/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p06/IBI.csv",
+      "bytes": 36744,
+      "sha256": "b9e0547298753b5480ec826811d1f2e982f4f671ceaf6ae136efabd1c92c776f",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p06/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p06/tags.csv",
+      "bytes": 14,
+      "sha256": "6516f655ade6562cd8fd648e18a2f22c9aa938c12983e6866138068387876c59",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p07/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p07/EDA.csv",
+      "bytes": 75195,
+      "sha256": "d7b8740628c1a5bed8ac052106927f9268eafde1d9a042432bd349a466ba2434",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p07/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p07/HR.csv",
+      "bytes": 12507,
+      "sha256": "a56a67540828043aa0d70268ecd827028d06b94ade7ec686e352b6395d1bd4f1",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p07/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p07/IBI.csv",
+      "bytes": 15335,
+      "sha256": "855dc44c7dcdddfae5fc2e09286375bf2f16254a1781f6b8c3386cf8d0aee6b2",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p07/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p07/tags.csv",
+      "bytes": 14,
+      "sha256": "9d6ca989ba4076bb95ac60918329af7e6ec5c77ae103bbd1d8282e09c034e84e",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p08/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p08/EDA.csv",
+      "bytes": 68337,
+      "sha256": "14985297c8b309d2bc29a666adb0ca27792204ab359c973bdd860d9ae3471c46",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p08/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p08/HR.csv",
+      "bytes": 11361,
+      "sha256": "dde08504df822dbc7dbb06ea3dd8f67a0214fba47079b2398a02341251cf9a51",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p08/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p08/IBI.csv",
+      "bytes": 32448,
+      "sha256": "f5e04712ba0c244ada6d63776cfd46f11575656765e62779fb293d78ba908a07",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p08/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p08/tags.csv",
+      "bytes": 14,
+      "sha256": "fd7a534fde328fab463bab08bc2b4ac2c55b11d543436910ea1baca28165ed9c",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p09/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p09/EDA.csv",
+      "bytes": 67743,
+      "sha256": "da6068fefd570d3a585529d4a67992b4d775ef6fc7c90ea600610765173c494c",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p09/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p09/HR.csv",
+      "bytes": 11368,
+      "sha256": "f0ad8241247b75bc6517293b083973f1ca9905a8ed323a9c35568cfae5816602",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p09/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p09/IBI.csv",
+      "bytes": 38632,
+      "sha256": "88b1043ff1eeca55a3046800a20e3a6efe04c27a890d1f44b6ea0b99a37a7494",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p09/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p09/tags.csv",
+      "bytes": 14,
+      "sha256": "b822589b973123d3a738c5e18269cf95454bfddef02f649399a27244d00489e0",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p10/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p10/EDA.csv",
+      "bytes": 67635,
+      "sha256": "387c2d97d48f5f1a87886a625be4e1ce2e7c12b0c8d364824f6cffb04acb0b19",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p10/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p10/HR.csv",
+      "bytes": 11241,
+      "sha256": "d98d70ea0e5ebba5b24cc285b46bb0017563da54b2c358dac3ec602d184ae858",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p10/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p10/IBI.csv",
+      "bytes": 41729,
+      "sha256": "26579402485013fbe8b03f7a4977df5a1d97d1678c9c87df762b15e30cf05546",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p10/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p10/tags.csv",
+      "bytes": 14,
+      "sha256": "866a5b65e6a72146ab4dfdfa93bac750b5e0c328be8a392ca4f3d02308b3917f",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p11/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p11/EDA.csv",
+      "bytes": 68337,
+      "sha256": "12be77f8b114dfbba4a2df70a98bc1a9e8bfc5691d55e1cc305339056133362a",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p11/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p11/HR.csv",
+      "bytes": 11395,
+      "sha256": "a8e3aa22689085d48db6ce3475c14bfcab6437b5896de7267f0f65f14f2ed659",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p11/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p11/IBI.csv",
+      "bytes": 16022,
+      "sha256": "2a8a584b6a1aab1a786797d741f43a6b633132a45d7454a18cf77dba90d3df69",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p11/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p11/tags.csv",
+      "bytes": 14,
+      "sha256": "6343bfc7658fb95fc651a149aa1576a8fa6646a12c7d8cd762398024e7b633d7",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p12/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p12/EDA.csv",
+      "bytes": 67473,
+      "sha256": "09d3ca5d27be6885aa11d1a824cf223469748ef4a5e31d20d71ea054ccf96466",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p12/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p12/HR.csv",
+      "bytes": 11223,
+      "sha256": "f8a5fd845b4eabf14dc7b5abcf7cead4164291929275263a63de62d8a45c2a99",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p12/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p12/IBI.csv",
+      "bytes": 31338,
+      "sha256": "7c45ee76616cbc7db1cb1a3077e6708139e47131dad0ff87c215deb89bbb91e8",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p12/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p12/tags.csv",
+      "bytes": 14,
+      "sha256": "f93360390406b8e1b3a2577a4077e1c531687a7360f44c751330722e2e222d0b",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p13/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p13/EDA.csv",
+      "bytes": 68067,
+      "sha256": "49310ad3479dabd346d7d47d25e63cd1e4c4d8db239b7def65fe45c22e152e2d",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p13/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p13/HR.csv",
+      "bytes": 11319,
+      "sha256": "321c3f2f052d2b92064b14a92e0cd6528a0a5df88a6e8528edfae431b26bea0e",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p13/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p13/IBI.csv",
+      "bytes": 27622,
+      "sha256": "8957a38f4965f1177988c242c8e07b70e6fea3b775185c15fbc133ea5b7e4194",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p13/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p13/tags.csv",
+      "bytes": 14,
+      "sha256": "6a92052401e616d5bf17df54450cd26da9a7af7e310ab6dd4b9843aef0f7c5fc",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p15/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p15/EDA.csv",
+      "bytes": 72549,
+      "sha256": "c672d5d3ee85deb29ca7b44dec90adf333b4b16687569e54b0c0574db7c94dba",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p15/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p15/HR.csv",
+      "bytes": 12063,
+      "sha256": "74fea808a28c2fdba7655df3043d0a5c8a731db00d2b5181ea5e7702ae6a54d1",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p15/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p15/IBI.csv",
+      "bytes": 52263,
+      "sha256": "02ff77b972e2f0790117c94b53d8c166b4bb01cfe61b81804a568f3d1ec80d43",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p15/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p15/tags.csv",
+      "bytes": 14,
+      "sha256": "a70dd43e5d4a949eac2fd195ce6306422e0930610c8f4c218f9965c84127fb6a",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p16/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p16/EDA.csv",
+      "bytes": 68013,
+      "sha256": "96a51e699afdd005b14b0743d5029c3957b93a8cb481bbdeb20a9a6bc9d131bb",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p16/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p16/HR.csv",
+      "bytes": 11368,
+      "sha256": "02cc6cc346f029812b86cff625756266b6dd9048c8e8aebc4a82e6dfce937727",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p16/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p16/IBI.csv",
+      "bytes": 5572,
+      "sha256": "8a72e75c63f2562f35918d23e9aa36182493e8ad521ad73fbe842a9228aed112",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p16/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p16/tags.csv",
+      "bytes": 14,
+      "sha256": "c161d3c67c7832799545a505ebb17d4ec5b5bc325631331752e9106612115b22",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p17/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p17/EDA.csv",
+      "bytes": 66609,
+      "sha256": "02b1d520e4e467970722879b7a62c697b53d738dfc2be307594178977d0eb698",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p17/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p17/HR.csv",
+      "bytes": 11079,
+      "sha256": "167b0589719a4795bc627fd8416776f084360697b0df7475dcc5d68813a5003b",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p17/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p17/IBI.csv",
+      "bytes": 44152,
+      "sha256": "88513b86774deccb2f83e982f6a82fde61f215574e972a7645f1d5c3ad93cb71",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p17/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p17/tags.csv",
+      "bytes": 14,
+      "sha256": "79ddc345ffb2a813d965847d3265eebe0a6a32a4a9701f4e0c4044152813629f",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p18/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p18/EDA.csv",
+      "bytes": 65961,
+      "sha256": "61c0813b5bceaf5e5ee037c0816aa6c7860cbea87e399698c92a06f22221aefa",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p18/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p18/HR.csv",
+      "bytes": 10971,
+      "sha256": "a3247d7836c15960c1711844fecd161deae320fa6ee1fba1d7614589f8f7f2ae",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p18/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p18/IBI.csv",
+      "bytes": 32618,
+      "sha256": "6761bef9be290ed29a59a5b70117a20f4fd51a545adba9aa8e5ceafce18ddda6",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p18/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p18/tags.csv",
+      "bytes": 14,
+      "sha256": "a3d55b1e667dab2b381155b8a9db6e6351080ed96de73e3a24575d9b3bed0511",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p19/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p19/EDA.csv",
+      "bytes": 67473,
+      "sha256": "173f2cc92f43f2846caf14361e00df8b399118d627c1a2b3ff4595b78d845c2d",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p19/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p19/HR.csv",
+      "bytes": 11286,
+      "sha256": "37dd447880b26b4957fb6ffc467d30f8175659abec60a313e40a2583569fa236",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p19/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p19/IBI.csv",
+      "bytes": 45490,
+      "sha256": "59f34f15ca8cf8944fde15bf8db3c19a3d7d7b5687765eedef8d3f61678a13bc",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p19/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p19/tags.csv",
+      "bytes": 14,
+      "sha256": "c91e3281c6390a8a3a16609b02abe0b9fe7191864acf64c34bf4b8c4e3c293bc",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p20/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p20/EDA.csv",
+      "bytes": 68229,
+      "sha256": "f69f33e2875c11f2c08a945b9ab98205be632450da607f48389927c60db50152",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p20/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p20/HR.csv",
+      "bytes": 11357,
+      "sha256": "7dc9b7c925ca8d8b0eaa90072c4a4e88206f664ef21c7b68fee733117a2d75f6",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p20/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p20/IBI.csv",
+      "bytes": 37895,
+      "sha256": "5df4987e829f3931991355dfc80c8702edcba48676c36a5b208097de5b537c6d",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p20/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p20/tags.csv",
+      "bytes": 14,
+      "sha256": "f24bacbbb39a2df91bb7770343caa515ae6c51f1f21bbadf3f509221a22e4bdc",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p21/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p21/EDA.csv",
+      "bytes": 68877,
+      "sha256": "13c244ad2361924a1921eb741fb6be8d1e05451ec284549fc18171666a9261cb",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p21/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p21/HR.csv",
+      "bytes": 11464,
+      "sha256": "3a1f7ef4a40dca40e2b9860be0bbc44489234aeb1c6d65cd3a5e44d403233cdd",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p21/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p21/IBI.csv",
+      "bytes": 17796,
+      "sha256": "c6f2d51b56a73f69eec2f8ac01d125575a1d3694612111582cfd510ff9f5d17e",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p21/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p21/tags.csv",
+      "bytes": 14,
+      "sha256": "4667efb1b7cd1f7a7fa8855420d24bb731b251bd84b5116b29e4e8437cde92d7",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p22/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p22/EDA.csv",
+      "bytes": 67581,
+      "sha256": "07cc0e1dea341e2f19e8ff8774645ec96cd164e9fba8deb305a1d89747776d54",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p22/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p22/HR.csv",
+      "bytes": 11303,
+      "sha256": "0f7c673ba328835edfb4d52a2aef7e78b484bdd0d3f5c2692b98c3f892f13cee",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p22/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p22/IBI.csv",
+      "bytes": 9084,
+      "sha256": "180b7c1d15dcfca35690f6194824b320d476ab784c758351cfda1c57eb8de12e",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p22/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p22/tags.csv",
+      "bytes": 14,
+      "sha256": "be07e32b9c88f0090fd0e02221bf40191170cee510241f046c319ca92b0b930e",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p24/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p24/EDA.csv",
+      "bytes": 66339,
+      "sha256": "80fd40272722cda583f1a0e2ba8d7428b8a17ce8c6032ebe8ec52dc56e91f3f6",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p24/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p24/HR.csv",
+      "bytes": 11034,
+      "sha256": "4ba5a90e80ae48c2bb6381b7c6de102ab6d0508b604066adccb5f6fa6a1f5937",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p24/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p24/IBI.csv",
+      "bytes": 42446,
+      "sha256": "6444d4cb38dd6ffa697645c2251aa17d733d8ef893c6d95138c97ebe50ecd38d",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p24/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p24/tags.csv",
+      "bytes": 14,
+      "sha256": "966730e93fe7bbcafb2c310e9384a87637c0f53d2a0e6c3c5ecdb8ceff1c9037",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p25/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p25/EDA.csv",
+      "bytes": 66609,
+      "sha256": "90e9f08b3517618f10f21acf1278394356d667cca688591b9342ab9da8d8cc7c",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p25/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p25/HR.csv",
+      "bytes": 11079,
+      "sha256": "8322bedad548b203e612dd864cd33cf7e17bed56e3881cdfc2494642a0c44caf",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p25/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p25/IBI.csv",
+      "bytes": 28296,
+      "sha256": "5b7114cee62201efdc4be7d129b79994021c3b27e7a13439c3bef98d0a504b87",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p25/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p25/tags.csv",
+      "bytes": 14,
+      "sha256": "050dffdd9b333e5f061ea2e03a6bf6673b12af4f036d17529c8abbe4bac02193",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p26/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p26/EDA.csv",
+      "bytes": 68175,
+      "sha256": "d210d6c076f5cb092b488257cd114add92c37d96945914f06b78b3519f139d40",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p26/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p26/HR.csv",
+      "bytes": 11573,
+      "sha256": "bcb8a683c554d8ba087d3d6ae8c48f6fd07a69cfc20d7bfc74cf3601e2365863",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p26/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p26/IBI.csv",
+      "bytes": 39792,
+      "sha256": "981b64d7983c464a5978fab6bf898c0da4d3b8ae1e21b4a21c15d9f33ac0212d",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p26/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p26/tags.csv",
+      "bytes": 14,
+      "sha256": "de14d2a88bb9e27992ba144aae9f4e8b3beb9989a976f173e59ef65063c2873d",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p27/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p27/EDA.csv",
+      "bytes": 67473,
+      "sha256": "bbe6a18b696b8d66e66bafe680ba0b7c84d1ef8af316037e88cca6cca2b73938",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p27/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p27/HR.csv",
+      "bytes": 11223,
+      "sha256": "465d53714d04112b6b13264ce2a9f894d26309caa16befd2846fd2e9618e6de1",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p27/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p27/IBI.csv",
+      "bytes": 12652,
+      "sha256": "0a67cda580eaeb48eff06a2376d0e3c2a1e6d9b3120c4a1f842d3d994b6bc822",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p27/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p27/tags.csv",
+      "bytes": 14,
+      "sha256": "e6db3849d092912d72df3032e27f89fe6f41bf59f5b9635722766eaa14ed29ec",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p28/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p28/EDA.csv",
+      "bytes": 67689,
+      "sha256": "25a768dfc2cb4686e03ab9663daf038267bce543621c7a9f83f2478b7b5c3c5e",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p28/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p28/HR.csv",
+      "bytes": 11253,
+      "sha256": "d2c918b37036db79c083d9e9e2f9a2f2b42e7a1939f21a140f060f4d6cc7ff51",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p28/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p28/IBI.csv",
+      "bytes": 35889,
+      "sha256": "8ba25612b4c17df5dc702df1e3e94c5bf8b210288aa89110f5d45a791cc67e55",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p28/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p28/tags.csv",
+      "bytes": 14,
+      "sha256": "5f4afc060f69c7c5e2a3fb210da3d0ead723805d96b7c286e991342f8cb0b506",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p29/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p29/EDA.csv",
+      "bytes": 66069,
+      "sha256": "fad3c78e0f762236d8d6cf42091e11a0ca93ad360eb098455fa9ffd2ab965844",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p29/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p29/HR.csv",
+      "bytes": 10983,
+      "sha256": "c7f5d50103565d1e4dac05658e64508e0a8989a9b1d9fd0f598dfc3d54019cac",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p29/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p29/IBI.csv",
+      "bytes": 32488,
+      "sha256": "2102ff7ac0d4dc65c0e1e09bd1f8ebac82bf66d756b9e8bddc9db69fd8fe3cfa",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p29/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p29/tags.csv",
+      "bytes": 14,
+      "sha256": "e8d59530c50720e793941fa3ee987128226b2e7a47873d39664f6fb928044ac1",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p30/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p30/EDA.csv",
+      "bytes": 67635,
+      "sha256": "c26d885fd1c812e77f0a4f549d46c38435df4f03511c4f8ac69e644428effc35",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p30/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p30/HR.csv",
+      "bytes": 11247,
+      "sha256": "8e39425e3da44f2c6483049498810c77115ec18acc9653012efb0b95c736acc4",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p30/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p30/IBI.csv",
+      "bytes": 43069,
+      "sha256": "da158f2a7c993d29946f237c6ae1392cabe92304a5fc705bd3a0acb269d599e7",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p30/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p30/tags.csv",
+      "bytes": 14,
+      "sha256": "b4734747a2912bfd033de3462bf72a0bee0bd1abc3dae5f770cab55a8a7a50ef",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p31/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p31/EDA.csv",
+      "bytes": 67203,
+      "sha256": "0505e204c8fc57bbf8e5bc18ee375a4d6867e4558670372f6eb8e6fcfdde8fc0",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p31/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p31/HR.csv",
+      "bytes": 11175,
+      "sha256": "ecabb1596d7eff5cce27204244ce8010610f212025cd8e59b9a704676a29c1f7",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p31/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p31/IBI.csv",
+      "bytes": 44233,
+      "sha256": "e01bfe46bc5294ae1757523cb64b50d58981717e6539861b6871af06e1b134c1",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p31/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p31/tags.csv",
+      "bytes": 14,
+      "sha256": "74a7d6df295c2804285dcedb86b21fdc7d0a85f8540678394d7aac840ed27b79",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p32/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p32/EDA.csv",
+      "bytes": 68067,
+      "sha256": "43b0323602a9af7ed4588b576c7296e8a2663e033618ec64821ab74d2be8400a",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p32/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p32/HR.csv",
+      "bytes": 11319,
+      "sha256": "1868a80bf011e72943467b9a71cf39bf8edf6d4511d8a66cc82df1c6d194bc79",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p32/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p32/IBI.csv",
+      "bytes": 36719,
+      "sha256": "ee3b9da8110d94331dacf4f504883e936fcf12f5edb9b5b7552ceeca6c4a8b75",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p32/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p32/tags.csv",
+      "bytes": 14,
+      "sha256": "4de205888c18c8dce92825bed32961ce9aaf704ecc16ea718bfb298db944de23",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p33/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p33/EDA.csv",
+      "bytes": 66933,
+      "sha256": "81cf0cf9cbf6fbd8fe710b253762cc9c6be9890def6578c9c37a67c7b2e651d4",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p33/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p33/HR.csv",
+      "bytes": 11455,
+      "sha256": "2b7ee86471f3633a3e7fa9fb78cac5919ccb8d9295152330b36f853beb940df6",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p33/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p33/IBI.csv",
+      "bytes": 17367,
+      "sha256": "5e4626323ef6c10b3538c250a86fcd39c1e6628178c33b5d6a79bcfbfadaf956",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p33/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p33/tags.csv",
+      "bytes": 14,
+      "sha256": "5327b6063c8b4bbe6a72a14b7e86e1afc2af5baf2891df8f217fc160101ba75c",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p34/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p34/EDA.csv",
+      "bytes": 67851,
+      "sha256": "ac2d822e89477a190ac5a94088828fc3eb51efeb5ef15561e9a39fac85e75892",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p34/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p34/HR.csv",
+      "bytes": 11289,
+      "sha256": "fd137cc1d5170e39f05b8d2fbb6bfb1195e1c6b86c88aa2912ec1c220f2e958c",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p34/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p34/IBI.csv",
+      "bytes": 29888,
+      "sha256": "f7499bf578a2e515e9edc542116f16ab2a1f48ad48fa3f096f1fcc06bed5f6b0",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p34/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p34/tags.csv",
+      "bytes": 14,
+      "sha256": "590bb2d4ef9b020b03f8e04eba9c7a9ff25825ed38727f7deda9e33a1014d816",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p35/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p35/EDA.csv",
+      "bytes": 68715,
+      "sha256": "b3f0621195edeab9be2c4b317bcc25f5f0cbc9bf337d01bb4322996570aad1b9",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p35/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p35/HR.csv",
+      "bytes": 11421,
+      "sha256": "5ae2e602d651b39485f4004f0611a73a516109fae7afc59e142bd487f8b42d68",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p35/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p35/IBI.csv",
+      "bytes": 30493,
+      "sha256": "cc2998b935b34836d0ce9daca5528cec424d2306c5abff30f6d857a080d1f048",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p35/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p35/tags.csv",
+      "bytes": 14,
+      "sha256": "fb6d85763275713a2bd14b44139ea17b3b0420841078d4d71cfff39753db0250",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p36/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p36/EDA.csv",
+      "bytes": 67797,
+      "sha256": "1580d0def32427d79db9271a2aa86a8929bc1b46b8be978e1d45aa2ed96498bf",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p36/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p36/HR.csv",
+      "bytes": 11271,
+      "sha256": "894c27221001a2d405307bd8c9dd46bc3f58bf372384277c9283a86d19040605",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p36/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p36/IBI.csv",
+      "bytes": 5487,
+      "sha256": "297a7dcde04214b28ea410c4c95460763c582b0fe8ded4218fcf286cdc93d41b",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p36/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p36/tags.csv",
+      "bytes": 14,
+      "sha256": "c7a4b8c4818a39010c365475d48ad42217838fe846e6bc51269bd6e54fc2744c",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p37/EDA.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p37/EDA.csv",
+      "bytes": 68661,
+      "sha256": "138695bc86f49a3138a5cd436ae96e725c6020350c53d4aa41c2b5611312839d",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p37/HR.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p37/HR.csv",
+      "bytes": 11418,
+      "sha256": "84946b9c207351bc3e8907adf35f94f32323988ba77ede3135a9d10fd78413c0",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p37/IBI.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p37/IBI.csv",
+      "bytes": 37327,
+      "sha256": "e3f84e74bd946453b4354bef36b544c0fd4f71fb95713b383e52401386328974",
+      "published_hash_match": true
+    },
+    {
+      "path": "PPG/p37/tags.csv",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/PPG/p37/tags.csv",
+      "bytes": 14,
+      "sha256": "a2a4cd73dc3f0a65efd3dbcb5e58d829dc4fb47a421902a269125344ceda1905",
+      "published_hash_match": true
+    },
+    {
+      "path": "README.txt",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/README.txt",
+      "bytes": 4911,
+      "sha256": "1edf32eda537806695f8e3789c80b2149e16c7533a0ccf404d223368a4c0e1a5",
+      "published_hash_match": true
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "url": "https://physionet.org/files/neuro-stress-resilience-hci/1.0.0/SHA256SUMS.txt",
+      "bytes": 32375,
+      "sha256": "11414e4af0a6206f0e5fe94cd8dc57f70638912b7480a2152da74705ec032538",
+      "published_hash_match": null
+    }
+  ]
+}

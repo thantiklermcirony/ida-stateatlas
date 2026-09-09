@@ -1,53 +1,49 @@
-# StateAtlas / IDA Discovery Lab
+# IDA / StateAtlas
 
-Private source and history handoff for Daniel John Murray's research programme. Version 0.2.0, source commit `52937c5e9f2297d03f250986574dd813c9d22907`, originally prepared 8 September 2026 and preserved here 9 September 2026.
+**The experimental instrument of [The Empirical Architecture](https://github.com/thantiklermcirony/empirical-architecture).**
 
-IDA asks which measurements distinguish states that need different interventions, and whether using those distinctions improves later outcomes. The current application includes the programme map, a finite measurement/action simulator, two real-data analyses, a neuroscience resource atlas and the R1 headband engineering baseline.
+IDA investigates which measurements distinguish states that need different interventions, and whether using those distinctions improves later outcomes. StateAtlas makes that question explorable through a working research application.
 
-## Get the complete project
+## What you can use
 
-- [Source ZIP](StateAtlas_IDA_v0.2_Project.zip): all 130 source files, locked dependencies, research material and engineering files. Extract the `StateAtlas_IDA` directory.
-- [Git history bundle](StateAtlas_IDA_v0.2.bundle): the complete existing Git history, including both development commits.
-- [Manifest](MANIFEST.json): source revision, file hashes and verification record.
+- A finite discovery lab for comparing measurements, uncertainty and intervention choices.
+- A searchable map of 41 manuscript records and the programme’s prediction register.
+- Two recorded analyses of existing physiological data, with results and provenance.
+- An experiment designer with explicit temporal ordering and inference contracts.
+- A neuroscience atlas covering 28 resources, 13 measurement families, 14 failure modes and 10 research routes.
+- The R1 instrument engineering baseline, including requirements, prototype geometry and a tested decoder for synthetic packets.
 
-This initial GitHub handoff stores the source as an archive and a Git bundle. Application files are inside those downloads; the web repository does not yet expose the application source as individual files. A normal authenticated Git push can publish the preserved source history as a separate branch without replacing this handoff commit.
+## Run locally
 
-With Git installed, download the bundle and run:
-
-```sh
-git clone StateAtlas_IDA_v0.2.bundle ida-stateatlas-source
-cd ida-stateatlas-source
-```
-
-The checked-out source includes its own detailed README and GitHub handoff guide. To add its existing history to this repository without a force-push:
+Requires Node 22.13 or newer and pnpm. Research analyses additionally require Python and NumPy.
 
 ```sh
-git remote add github https://github.com/thantiklermcirony/ida-stateatlas.git
-git push github main:source-v0.2
-```
-
-This command requires the owner's normal GitHub authentication. It creates a source branch; it does not merge with or overwrite the handoff branch.
-
-## Run and verify
-
-Requires Node >=22.13 and pnpm; research analyses additionally require Python/NumPy.
-
-```sh
+git clone https://github.com/thantiklermcirony/ida-stateatlas.git
+cd ida-stateatlas
 pnpm install
 pnpm dev
+```
+
+```sh
 pnpm build
 node --test tests/discovery.test.mjs tests/atlas.test.mjs
 python -m unittest discover -s engineering/software -p "test_*.py" -v
 ```
 
-The 15 Node tests and 13 Python tests passed again during this handoff. Git bundle and ZIP integrity checks passed. The original task reported a successful TypeScript check and production build at the same source revision; those build checks were not repeated during the handoff.
+## Explore the source
 
-## Current research position
+[Scientific and development notes](DEVELOPMENT_NOTES.md) · [Neuroscience and engineering atlas](research/atlas/NEUROSCIENCE_AND_ENGINEERING.md) · [R1 engineering baseline](engineering/HEADBAND_R1.md) · [Contributing](CONTRIBUTING.md) · [Licensing](LICENSING.md)
 
-The finite simulator uses invented dimensionless fixtures. The engineering baseline has not been fabricated, physically tested or clinically validated. The two analyses reproduce/explore existing data; the selected physiological features did not establish useful added predictive value. The next scientific target is a prospective comparison of an effective fixed intervention with state-guided selection or timing, using an independent later outcome.
+The native source is now directly browsable. The original version 0.2 source commit is `52937c5e9f2297d03f250986574dd813c9d22907`; the preserved project ZIP, Git bundle and original manifest retain that handoff and its two development commits. The current source adds the programme identity, public documentation and licensing. Private hosting configuration is excluded from the native publication tree.
 
-The source contains aggregate research outputs and retrieval instructions, plus synthetic engineering fixtures. No raw participant dataset is included in this handoff. No new blanket licence has been assigned to the project; existing third-party terms and attributions remain in the source. Keep this repository private until publication scope and licensing have been chosen.
+## Research status
 
-## Role in the wider programme
+The application is a research prototype. Its simulation matrices are synthetic and dimensionless. The R1 design has not been fabricated or physically validated. The two existing-data analyses do not establish useful added predictive value for the selected physiological features. The next scientific step is to test whether additional state information improves an independently assessed later outcome against a strong fixed-intervention comparison.
 
-Predictive-state foundations define what needs to be distinguished. Viable-action work defines which distinctions change a decision. Epistemic type safety separates a proposal, a supported record and an authorized action. UHL composition models form a conditional mathematical branch; an observer-coupling hypothesis is not a prerequisite for this application.
+The current application does not run a generative model or deliver a human intervention. The broader programme’s claims about AI economics, biological discovery and consciousness remain research questions with explicit tests.
+
+## How IDA advances the programme
+
+Predictive-state foundations specify which distinctions a model needs. Action and viability specify which distinctions can change a decision. IDA connects those foundations to measurements, experiments and instrument development. UHL supplies a conditional composition/geometry research line within the larger programme.
+
+Founded by Daniel John Murray. Original code and documentation are available under the MIT License; third-party sources retain their own terms.

@@ -1,0 +1,29 @@
+{
+  "policy": "Use supplier hardware and installed supported firmware. Upstream design links are references, not approved manufacturing revisions. No third-party firmware or PCB files are redistributed here.",
+  "references": [
+    {
+      "name": "Cyton hardware design source",
+      "url": "https://github.com/OpenBCI/V3_Hardware_Design_Files",
+      "revision_status": "Source snapshot pinned; compatibility with actual purchased board still requires audit",
+      "reviewed_source_commit": "6bce559c7ca6e8b4a440b557c6c7173f99612a67",
+      "pinned_url": "https://github.com/OpenBCI/V3_Hardware_Design_Files/tree/6bce559c7ca6e8b4a440b557c6c7173f99612a67"
+    },
+    {
+      "name": "Cyton firmware library",
+      "url": "https://github.com/OpenBCI/OpenBCI_Cyton_Library",
+      "revision_status": "Source snapshot pinned; compatibility with actual purchased board still requires audit",
+      "reviewed_source_commit": "24e1c4269b60c3bec6d831bca03cae42f267b3c6",
+      "pinned_url": "https://github.com/OpenBCI/OpenBCI_Cyton_Library/tree/24e1c4269b60c3bec6d831bca03cae42f267b3c6"
+    },
+    {
+      "name": "Cyton manufacturer command documentation",
+      "url": "https://docs.openbci.com/Cyton/CytonSDK/",
+      "revision_status": "Reviewed 2026-09-08; verify against installed firmware"
+    },
+    {
+      "name": "Cyton original case and battery instructions",
+      "url": "https://docs.openbci.com/GettingStarted/Boards/CytonGS/",
+      "revision_status": "Supplier configuration governs R1"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "fixture": "Invented waveforms and faults; not human EEG or physical hardware validation",
+  "cases": {
+    "clean": {
+      "raw_sha256": "d7e3e5aa2e1365343df3ff400b373bd501f010a6fb510d5194a4c596128256ab",
+      "frames": 3000,
+      "discarded_bytes": 0,
+      "trailing_bytes": 0,
+      "continuity_issues": 0,
+      "usable_windows": 3,
+      "windows": 3
+    },
+    "dropout": {
+      "raw_sha256": "00c55255e68a596ccc75fee1e26c57ab7e1585b1f40b57a6b51a9620b0dcb314",
+      "frames": 2999,
+      "discarded_bytes": 0,
+      "trailing_bytes": 0,
+      "continuity_issues": 1,
+      "usable_windows": 1,
+      "windows": 3
+    },
+    "flat": {
+      "raw_sha256": "e258e7a019ece2264ed14e7118efea12f16e58dd0273295c39c3d9639318101e",
+      "frames": 3000,
+      "discarded_bytes": 0,
+      "trailing_bytes": 0,
+      "continuity_issues": 0,
+      "usable_windows": 0,
+      "windows": 3
+    },
+    "rail": {
+      "raw_sha256": "6c8a3e78854347e904c9c9ef41643c6f6dc2adaeb0ac0414e19838022f6655b0",
+      "frames": 3000,
+      "discarded_bytes": 0,
+      "trailing_bytes": 0,
+      "continuity_issues": 0,
+      "usable_windows": 0,
+      "windows": 3
+    },
+    "large_artifact": {
+      "raw_sha256": "5cad1f95fe977dfae5dd2e98d289fdac64e00e8422f5d6bd4c6d8befe59c7d39",
+      "frames": 3000,
+      "discarded_bytes": 0,
+      "trailing_bytes": 0,
+      "continuity_issues": 0,
+      "usable_windows": 0,
+      "windows": 3
+    }
+  },
+  "calculations": {
+    "bytes_per_second": 8250,
+    "megabytes_per_hour_decimal": 29.7,
+    "uart_bits_per_second_8n1": 82500,
+    "microvolts_per_count_gain24": 0.022351744455307063
+  },
+  "code_sha256": "2fe98c95eaee4e71ab89637f26936c4f6c4fb06c6e3fb3940ea2af2bd49a94da"
+}

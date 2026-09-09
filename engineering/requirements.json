@@ -1,0 +1,226 @@
+[
+  {
+    "id": "R01",
+    "title": "Channel configuration",
+    "requirement": "Eight named channels, per-channel gains and reference recorded",
+    "verification": "Configuration validator and actual register audit",
+    "status": "Software passed; hardware pending",
+    "failure": "F03"
+  },
+  {
+    "id": "R02",
+    "title": "ADC conversion",
+    "requirement": "Signed 24-bit extremes and gain-dependent scaling correct",
+    "verification": "Boundary and scale tests",
+    "status": "Software passed",
+    "failure": "F04"
+  },
+  {
+    "id": "R03",
+    "title": "Framing",
+    "requirement": "Recover after boot text, arbitrary chunks and malformed footer",
+    "verification": "All chunk-boundary and recovery tests",
+    "status": "Software passed",
+    "failure": "F11"
+  },
+  {
+    "id": "R04",
+    "title": "Continuity",
+    "requirement": "Flag gaps, duplicates, wrap ambiguity and trailing bytes",
+    "verification": "Counter and truncated-packet tests",
+    "status": "Software passed; physical dropout pending",
+    "failure": "F11"
+  },
+  {
+    "id": "R05",
+    "title": "Auxiliary data",
+    "requirement": "Do not label specialized timestamp bytes as acceleration",
+    "verification": "Auxiliary-format test",
+    "status": "Software passed",
+    "failure": "F11"
+  },
+  {
+    "id": "R06",
+    "title": "Signal quality",
+    "requirement": "Reject fixture flatline, rail and large-amplitude artifacts",
+    "verification": "Quality fault fixtures",
+    "status": "Software passed; thresholds unvalidated",
+    "failure": "F03"
+  },
+  {
+    "id": "R07",
+    "title": "Raw preservation",
+    "requirement": "Raw source hash, counts and configuration retained",
+    "verification": "Offline output/provenance inspection",
+    "status": "Software passed",
+    "failure": "F01"
+  },
+  {
+    "id": "R08",
+    "title": "Noise",
+    "requirement": "Proposed \u22641 \u00b5V RMS, declared 0.5\u201340 Hz band and source impedance",
+    "verification": "Calibrated shorted-input phantom",
+    "status": "Not run",
+    "failure": "F03"
+  },
+  {
+    "id": "R09",
+    "title": "Gain accuracy",
+    "requirement": "Proposed \u00b15% at 10 Hz, every channel",
+    "verification": "Traceable phantom signal",
+    "status": "Not run",
+    "failure": "F04"
+  },
+  {
+    "id": "R10",
+    "title": "Common mode",
+    "requirement": "Proposed \u226580 dB at line frequency; impedance imbalance reported",
+    "verification": "Qualified phantom common-mode test",
+    "status": "Not run",
+    "failure": "F02"
+  },
+  {
+    "id": "R11",
+    "title": "Crosstalk",
+    "requirement": "Proposed \u2264\u221260 dB at 10 Hz",
+    "verification": "One-channel excitation",
+    "status": "Not run",
+    "failure": "F03"
+  },
+  {
+    "id": "R12",
+    "title": "Timing",
+    "requirement": "Proposed p95 \u226420 ms marker error for seconds-scale research",
+    "verification": "100+ physical events per declared host condition",
+    "status": "Not run",
+    "failure": "F11"
+  },
+  {
+    "id": "R13",
+    "title": "Latency",
+    "requirement": "Proposed p95 \u2264100 ms plus declared feature-window delay",
+    "verification": "Physical loopback under load",
+    "status": "Not run",
+    "failure": "F11"
+  },
+  {
+    "id": "R14",
+    "title": "Power",
+    "requirement": "Supplier battery; worn assembly disconnected from charging",
+    "verification": "Electrical design and use-error review",
+    "status": "Not run",
+    "failure": "F13"
+  },
+  {
+    "id": "R15",
+    "title": "Fit",
+    "requirement": "Proposed 520\u2013640 mm circumference, repeatable placement",
+    "verification": "Anthropometric and repeated placement assessment",
+    "status": "Not run",
+    "failure": "F03"
+  },
+  {
+    "id": "R16",
+    "title": "Mass / retention",
+    "requirement": "Proposed \u2264150 g head-worn; strain and retention verified",
+    "verification": "Weigh and physical retention test",
+    "status": "Not run",
+    "failure": "F02"
+  },
+  {
+    "id": "R17",
+    "title": "Carrier geometry",
+    "requirement": "Closed, oriented prototype mesh; CAD dimensions explicit",
+    "verification": "Analytic topology and volume validation",
+    "status": "Geometry passed; fit pending",
+    "failure": "F13"
+  },
+  {
+    "id": "R18",
+    "title": "Materials",
+    "requirement": "Contact surfaces and cleaning appropriate to intended use",
+    "verification": "Material / biological-safety evaluation",
+    "status": "Not run",
+    "failure": "F13"
+  },
+  {
+    "id": "R19",
+    "title": "Reference / bias",
+    "requirement": "Distinct contacts, routing and polarity verified",
+    "verification": "Phantom plus register readback",
+    "status": "Not run",
+    "failure": "F03"
+  },
+  {
+    "id": "R20",
+    "title": "Artifact specificity",
+    "requirement": "EEG adds value beyond EOG, movement and context",
+    "verification": "Held-out artifact-channel comparator",
+    "status": "Not established",
+    "failure": "F03"
+  },
+  {
+    "id": "R21",
+    "title": "Generalization",
+    "requirement": "Participant/session/site overlap controlled as required",
+    "verification": "Frozen split manifests and independent evaluation",
+    "status": "Protocol specified; new data pending",
+    "failure": "F01"
+  },
+  {
+    "id": "R22",
+    "title": "Feature timing",
+    "requirement": "No post-decision information in an earlier decision",
+    "verification": "Timing contract and causal pipeline audit",
+    "status": "Prior draft validator passed; live audit pending",
+    "failure": "F09"
+  },
+  {
+    "id": "R23",
+    "title": "Incremental measurement value",
+    "requirement": "Compare context/history/peripheral/EEG/IDA ladder",
+    "verification": "Untouched later-outcome evaluation",
+    "status": "Not established",
+    "failure": "F10"
+  },
+  {
+    "id": "R24",
+    "title": "Incremental policy value",
+    "requirement": "Beat matched fixed delivery with meaningful later benefit",
+    "verification": "Reviewed randomized policy comparison",
+    "status": "Not established",
+    "failure": "F14"
+  },
+  {
+    "id": "R25",
+    "title": "Clinical claims",
+    "requirement": "No efficacy or treatment output before validation",
+    "verification": "Release content and intended-use review",
+    "status": "Research scope only",
+    "failure": "F08"
+  },
+  {
+    "id": "R26",
+    "title": "Field coverage",
+    "requirement": "Each atlas entry has source, test and boundary",
+    "verification": "Catalogue integrity test",
+    "status": "Source map populated; study audits incomplete",
+    "failure": "F12"
+  },
+  {
+    "id": "R27",
+    "title": "Evidence transfer",
+    "requirement": "Animal/invasive/molecular links require paired bridge data",
+    "verification": "Transport experiment",
+    "status": "Not established",
+    "failure": "F13"
+  },
+  {
+    "id": "R28",
+    "title": "Intervention lifecycle",
+    "requirement": "Independent withdrawal/transfer outcomes and burden",
+    "verification": "Prospective follow-up design",
+    "status": "Not run",
+    "failure": "F08"
+  }
+]

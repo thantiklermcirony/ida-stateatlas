@@ -1,0 +1,24 @@
+{
+  "sample_rate_hz": 250,
+  "reference_v": 4.5,
+  "gains": [
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24
+  ],
+  "channel_labels": [
+    "Fp1",
+    "Fp2",
+    "F7",
+    "F8",
+    "O1",
+    "O2",
+    "VEOG",
+    "HEOG"
+  ]
+}

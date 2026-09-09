@@ -1,0 +1,1067 @@
+{
+  "version": "0.2.0",
+  "review_date": "2026-09-08",
+  "scope": "Structured, broad evidence map for IDA; not an exhaustive systematic review or a completed audit of every neuroscience dataset.",
+  "review_method": "Targeted primary-source and official-repository searches on 8 September 2026, plus the prior IDA reanalyses. Repository entries describe candidate uses, not downloaded datasets. No pooled cross-domain correlations were computed.",
+  "completion": "All listed records have a declared source and next-use boundary. Raw access, study-level risk-of-bias reviews and field-wide saturation remain incomplete.",
+  "sources": [
+    {
+      "id": "openneuro",
+      "title": "OpenNeuro documentation",
+      "url": "https://docs.openneuro.org/user-guide/",
+      "kind": "Repository documentation"
+    },
+    {
+      "id": "nemar",
+      "title": "NEMAR",
+      "url": "https://nemar.org/",
+      "kind": "Repository"
+    },
+    {
+      "id": "hcp",
+      "title": "HCP Young Adult: current releases",
+      "url": "https://www.humanconnectome.org/study/hcp-young-adult",
+      "kind": "Repository documentation"
+    },
+    {
+      "id": "abcd",
+      "title": "ABCD data sharing and NBDC access",
+      "url": "https://abcdstudy.org/scientists/data-sharing/",
+      "kind": "Repository documentation"
+    },
+    {
+      "id": "ukb",
+      "title": "UK Biobank data access",
+      "url": "https://www.ukbiobank.ac.uk/use-our-data/",
+      "kind": "Repository documentation"
+    },
+    {
+      "id": "sleep",
+      "title": "Sleep-EDF Expanded",
+      "url": "https://physionet.org/content/sleep-edfx/1.0.0/",
+      "kind": "Dataset documentation"
+    },
+    {
+      "id": "motor",
+      "title": "EEG Motor Movement/Imagery",
+      "url": "https://physionet.org/content/eegmmidb/1.0.0/",
+      "kind": "Dataset documentation"
+    },
+    {
+      "id": "chb",
+      "title": "CHB-MIT Scalp EEG",
+      "url": "https://physionet.org/content/chbmit/1.0.0/",
+      "kind": "Dataset documentation"
+    },
+    {
+      "id": "tuh",
+      "title": "Temple University EEG corpus",
+      "url": "https://isip.piconepress.com/projects/nedc/html/tuh_eeg/",
+      "kind": "Repository documentation"
+    },
+    {
+      "id": "wesad",
+      "title": "WESAD",
+      "url": "https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection",
+      "kind": "Dataset documentation"
+    },
+    {
+      "id": "deap",
+      "title": "DEAP author repository",
+      "url": "https://www.eecs.qmul.ac.uk/mmv/datasets/deap/",
+      "kind": "Access page failed; author thesis search corroborates resource"
+    },
+    {
+      "id": "omega",
+      "title": "Open MEG Archive",
+      "url": "https://www.mcgill.ca/bic/neuroinformatics/omega",
+      "kind": "Repository documentation"
+    },
+    {
+      "id": "camcan",
+      "title": "Cam-CAN data repository",
+      "url": "https://cam-can.mrc-cbu.cam.ac.uk/dataset/",
+      "kind": "Repository documentation"
+    },
+    {
+      "id": "hbn",
+      "title": "Healthy Brain Network portal",
+      "url": "https://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/",
+      "kind": "Repository documentation"
+    },
+    {
+      "id": "ieeg",
+      "title": "iEEG/HABITAT portal",
+      "url": "https://www.ieeg.org/",
+      "kind": "JavaScript shell only; dataset-level audit outstanding"
+    },
+    {
+      "id": "ibl",
+      "title": "International Brain Laboratory public data",
+      "url": "https://www.internationalbrainlab.com/data",
+      "kind": "Repository documentation"
+    },
+    {
+      "id": "microns",
+      "title": "MICrONS Explorer",
+      "url": "https://www.microns-explorer.org/",
+      "kind": "Repository documentation"
+    },
+    {
+      "id": "allen",
+      "title": "Allen Brain Map",
+      "url": "https://brain-map.org/",
+      "kind": "Repository"
+    },
+    {
+      "id": "dandi",
+      "title": "DANDI Archive",
+      "url": "https://dandiarchive.org/",
+      "kind": "Repository"
+    },
+    {
+      "id": "geo",
+      "title": "NCBI GEO",
+      "url": "https://www.ncbi.nlm.nih.gov/geo/",
+      "kind": "Browser challenge; dataset-level audit outstanding"
+    },
+    {
+      "id": "adni",
+      "title": "ADNI data and samples",
+      "url": "https://adni.loni.usc.edu/data-samples/",
+      "kind": "Repository documentation"
+    },
+    {
+      "id": "ppmi",
+      "title": "PPMI guidance resources",
+      "url": "https://www.ppmi-info.org/access-data-specimens/guidance-resources",
+      "kind": "Official guidance search"
+    },
+    {
+      "id": "nsd",
+      "title": "Natural Scenes Dataset primary paper",
+      "url": "https://www.nature.com/articles/s41593-021-00962-x",
+      "kind": "Primary dataset paper"
+    },
+    {
+      "id": "bnci",
+      "title": "BNCI datasets",
+      "url": "https://bnci-horizon-2020.eu/database/data-sets",
+      "kind": "Repository documentation"
+    },
+    {
+      "id": "resilience",
+      "title": "Roy–Nuamah HCI stress-resilience dataset",
+      "url": "https://physionet.org/content/neuro-stress-resilience-hci/1.0.0/",
+      "kind": "Dataset analysed in IDA v0.1"
+    },
+    {
+      "id": "antidote",
+      "title": "ANTIDOTE randomized experimental-trauma study",
+      "url": "https://www.nature.com/articles/s41746-025-02145-5",
+      "kind": "Primary trial; reanalysed in IDA v0.1"
+    },
+    {
+      "id": "embarc",
+      "title": "EEG prediction of antidepressant response",
+      "url": "https://www.nature.com/articles/s41587-019-0397-3",
+      "kind": "Primary study; abstract accessible, raw data not obtained"
+    },
+    {
+      "id": "scangos",
+      "title": "State-dependent intracranial responses in depression",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8284979/",
+      "kind": "Primary single-person study"
+    },
+    {
+      "id": "closedloop",
+      "title": "Closed-loop neuromodulation in an individual with depression",
+      "url": "https://www.nature.com/articles/s41591-021-01480-w",
+      "kind": "Primary single-person study; reviewed previously"
+    },
+    {
+      "id": "control",
+      "title": "Closed-loop enhancement of cognitive control",
+      "url": "https://www.nature.com/articles/s41551-021-00804-y",
+      "kind": "Primary invasive proof-of-concept study"
+    },
+    {
+      "id": "nf",
+      "title": "Double-blind placebo-controlled neurofeedback trial in ADHD",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32853703/",
+      "kind": "Primary randomized trial"
+    },
+    {
+      "id": "sleepinput",
+      "title": "Auditory closed-loop slow-oscillation stimulation",
+      "url": "https://www.nature.com/articles/s41467-017-02170-3",
+      "kind": "Primary controlled experiment"
+    },
+    {
+      "id": "breath",
+      "title": "Brief structured respiration practices",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36630953/",
+      "kind": "Primary randomized study; reviewed previously"
+    },
+    {
+      "id": "hrvb",
+      "title": "Heart-rate variability biofeedback in substance-use treatment",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12489796/",
+      "kind": "Primary randomized study; reviewed previously"
+    },
+    {
+      "id": "tvns",
+      "title": "MODULATE Depression and baseline HRV",
+      "url": "https://www.nature.com/articles/s41398-025-03780-y",
+      "kind": "Primary randomized study; interaction remains a candidate"
+    },
+    {
+      "id": "rdoc",
+      "title": "NIMH RDoC domains and constructs",
+      "url": "https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/definitions-of-the-rdoc-domains-and-constructs",
+      "kind": "Official research framework"
+    },
+    {
+      "id": "circular",
+      "title": "Circular analysis and double dipping",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2841687/",
+      "kind": "Primary methods demonstration"
+    },
+    {
+      "id": "motion",
+      "title": "Spurious functional connectivity from motion",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1053811911011815",
+      "kind": "Primary methods demonstration"
+    },
+    {
+      "id": "spectra",
+      "title": "Periodic and aperiodic spectral parameterization",
+      "url": "https://www.nature.com/articles/s41593-020-00744-x",
+      "kind": "Primary methods study"
+    },
+    {
+      "id": "emg",
+      "title": "Scalp EEG during paralysis and muscle contamination",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17574912/",
+      "kind": "Primary experimental artifact study"
+    },
+    {
+      "id": "pupil",
+      "title": "Pupil fluctuations and cortical neuromodulatory activity",
+      "url": "https://www.nature.com/articles/ncomms13289",
+      "kind": "Primary mouse study"
+    },
+    {
+      "id": "bwas",
+      "title": "Sample size and brain-wide associations",
+      "url": "https://www.nature.com/articles/s41586-022-04492-9",
+      "kind": "Primary resampling study"
+    },
+    {
+      "id": "fnirs",
+      "title": "Best practices for fNIRS",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7793571/",
+      "kind": "Consensus methods guidance"
+    },
+    {
+      "id": "mrt",
+      "title": "Micro-randomized trials for adaptive interventions",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4732571/",
+      "kind": "Primary design-method paper"
+    },
+    {
+      "id": "bids",
+      "title": "Brain Imaging Data Structure",
+      "url": "https://bids.neuroimaging.io/",
+      "kind": "Official standard documentation"
+    },
+    {
+      "id": "nwb",
+      "title": "Neurodata Without Borders",
+      "url": "https://nwb.org/",
+      "kind": "Official standard documentation"
+    },
+    {
+      "id": "mne",
+      "title": "MNE-Python",
+      "url": "https://mne.tools/stable/index.html",
+      "kind": "Official software documentation"
+    },
+    {
+      "id": "lsl",
+      "title": "Lab Streaming Layer time synchronization",
+      "url": "https://labstreaminglayer.readthedocs.io/info/time_synchronization.html",
+      "kind": "Official software documentation"
+    },
+    {
+      "id": "brainflow",
+      "title": "BrainFlow supported boards",
+      "url": "https://brainflow.readthedocs.io/en/stable/SupportedBoards.html",
+      "kind": "Official software documentation"
+    },
+    {
+      "id": "cyton",
+      "title": "OpenBCI Cyton specifications",
+      "url": "https://docs.openbci.com/Cyton/CytonSpecs/",
+      "kind": "Manufacturer documentation"
+    },
+    {
+      "id": "packet",
+      "title": "OpenBCI Cyton data format",
+      "url": "https://docs.openbci.com/Cyton/CytonDataFormat/",
+      "kind": "Manufacturer protocol documentation"
+    },
+    {
+      "id": "sdk",
+      "title": "OpenBCI Cyton command SDK",
+      "url": "https://docs.openbci.com/Cyton/CytonSDK/",
+      "kind": "Manufacturer protocol documentation"
+    },
+    {
+      "id": "ti",
+      "title": "Texas Instruments ADS1299",
+      "url": "https://www.ti.com/product/ADS1299",
+      "kind": "Manufacturer datasheet summary"
+    },
+    {
+      "id": "fda",
+      "title": "FDA general wellness policy, January 2026",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-wellness-policy-low-risk-devices",
+      "kind": "Official guidance; not an IDA classification"
+    },
+    {
+      "id": "risk",
+      "title": "ISO 14971:2019",
+      "url": "https://www.iso.org/standard/72704.html",
+      "kind": "Official standard catalogue; full clauses not reviewed"
+    }
+  ],
+  "datasets": [
+    {
+      "id": "D01",
+      "name": "OpenNeuro",
+      "source": "openneuro",
+      "species": "Human",
+      "modality": "EEG / MEG / MRI / iEEG",
+      "design": "BIDS repository",
+      "access": "Study-specific public snapshots",
+      "usual_use": "Task contrasts, decoding, network analyses",
+      "ida_test": "Select repeated sessions with raw signals, events and independent later outcomes.",
+      "limit": "A repository is not one harmonized experiment. Check every dataset license and protocol.",
+      "priority": "High",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D02",
+      "name": "NEMAR",
+      "source": "nemar",
+      "species": "Human",
+      "modality": "EEG / MEG / iEEG",
+      "design": "Electrophysiology discovery portal",
+      "access": "Public portal; dataset terms govern",
+      "usual_use": "Discover and inspect electrophysiology datasets",
+      "ida_test": "Find candidate EEG datasets and quality information.",
+      "limit": "Overlaps OpenNeuro; do not count duplicates as replication.",
+      "priority": "High",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D03",
+      "name": "HCP Young Adult",
+      "source": "hcp",
+      "species": "Human",
+      "modality": "MRI / diffusion / MEG",
+      "design": "Population and retest",
+      "access": "Registered access; restricted phenotypes differ",
+      "usual_use": "Connectivity, individual differences, structure–function",
+      "ida_test": "Study reliability and paired-modality transfer questions.",
+      "limit": "Healthy cohort and scanner measurements do not establish wearable intervention targets.",
+      "priority": "Medium",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D04",
+      "name": "ABCD",
+      "source": "abcd",
+      "species": "Human",
+      "modality": "MRI / behaviour / development",
+      "design": "Longitudinal cohort",
+      "access": "Controlled access through NBDC; institutional requirements",
+      "usual_use": "Developmental trajectories and associations",
+      "ida_test": "Separate age/development, context and within-person change.",
+      "limit": "Current access is not an unrestricted NDA download; no minors’ data retrieved.",
+      "priority": "Medium",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D05",
+      "name": "UK Biobank",
+      "source": "ukb",
+      "species": "Human",
+      "modality": "Imaging / genetics / health",
+      "design": "Population cohort",
+      "access": "Approved application and platform access",
+      "usual_use": "Risk associations and longitudinal health",
+      "ida_test": "Test broad transport and confound hypotheses.",
+      "limit": "Population risk is not a moment-to-moment control policy.",
+      "priority": "Medium",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D06",
+      "name": "Sleep-EDF Expanded",
+      "source": "sleep",
+      "species": "Human",
+      "modality": "EEG / EOG / EMG / sleep",
+      "design": "Annotated longitudinal signals",
+      "access": "Open files; version and license must be pinned",
+      "usual_use": "Sleep staging and transitions",
+      "ida_test": "Benchmark state transitions, signal quality and sparse-channel limitations.",
+      "limit": "Sleep-stage labels are not mental-health outcomes; verify montage and historical scoring.",
+      "priority": "High",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D07",
+      "name": "PhysioNet EEG Motor Movement/Imagery",
+      "source": "motor",
+      "species": "Human",
+      "modality": "EEG / task events",
+      "design": "Repeated task recordings",
+      "access": "Open files; pin license and version",
+      "usual_use": "Motor imagery and movement decoding",
+      "ida_test": "Test raw ingestion, artifact sensitivity and split integrity.",
+      "limit": "Task classification is not evidence of stabilization.",
+      "priority": "High",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D08",
+      "name": "CHB-MIT",
+      "source": "chb",
+      "species": "Human",
+      "modality": "Clinical EEG / seizure labels",
+      "design": "Clinical monitoring",
+      "access": "Open files; dataset-specific terms",
+      "usual_use": "Seizure detection and forecasting",
+      "ida_test": "Stress-test false-alarm burden and subject-held-out evaluation.",
+      "limit": "Paediatric epilepsy cannot calibrate an adult anxiety controller.",
+      "priority": "Medium",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D09",
+      "name": "Temple EEG corpora",
+      "source": "tuh",
+      "species": "Human",
+      "modality": "Clinical EEG / reports",
+      "design": "Clinical archive and subcorpora",
+      "access": "Registration and corpus-specific terms",
+      "usual_use": "Abnormality, seizure and artifact classification",
+      "ida_test": "Challenge generalization to real clinical noise and devices.",
+      "limit": "Reports and clinical sampling introduce selection and label biases.",
+      "priority": "Medium",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D10",
+      "name": "WESAD",
+      "source": "wesad",
+      "species": "Human",
+      "modality": "ECG / EDA / respiration / motion",
+      "design": "Lab stress and affect",
+      "access": "UCI access; inspect underlying archive/license",
+      "usual_use": "Stress or affect classification",
+      "ida_test": "Compare physiology against context and task order.",
+      "limit": "Protocol labels can be decoded without identifying causal intervention response.",
+      "priority": "High",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D11",
+      "name": "DEAP",
+      "source": "deap",
+      "species": "Human",
+      "modality": "EEG / peripheral / affect ratings",
+      "design": "Stimulus and rating experiment",
+      "access": "Access page failed during review; terms unresolved",
+      "usual_use": "Affect decoding",
+      "ida_test": "Candidate only after access and raw/preprocessed audit.",
+      "limit": "Processed signals and stimulus labels can erase recovery and treatment information.",
+      "priority": "Medium",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D12",
+      "name": "OMEGA",
+      "source": "omega",
+      "species": "Human",
+      "modality": "MEG / anatomy",
+      "design": "MEG archive",
+      "access": "Access process and dataset terms",
+      "usual_use": "Source and resting-state analyses",
+      "ida_test": "Evaluate neural-feature reliability before proposing scalp surrogates.",
+      "limit": "MEG features need an empirical transfer bridge to a headband.",
+      "priority": "Medium",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D13",
+      "name": "Cam-CAN",
+      "source": "camcan",
+      "species": "Human",
+      "modality": "MEG / MRI / cognition",
+      "design": "Lifespan multimodal cohort",
+      "access": "Data portal and access agreement",
+      "usual_use": "Age effects and multimodal cognition",
+      "ida_test": "Test age transport and stable versus dynamic features.",
+      "limit": "Between-person age associations do not describe within-person recovery.",
+      "priority": "Medium",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D14",
+      "name": "Healthy Brain Network",
+      "source": "hbn",
+      "species": "Human",
+      "modality": "EEG / MRI / clinical / behaviour",
+      "design": "Developmental clinical resource",
+      "access": "Portal; release-specific access terms",
+      "usual_use": "Transdiagnostic associations",
+      "ida_test": "Compare symptoms, context and multimodal representations.",
+      "limit": "Clinical ascertainment and development need explicit modelling.",
+      "priority": "Medium",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D15",
+      "name": "iEEG / HABITAT",
+      "source": "ieeg",
+      "species": "Human",
+      "modality": "Intracranial EEG",
+      "design": "Study-specific recordings",
+      "access": "Portal shell checked; account and dataset permissions unresolved",
+      "usual_use": "Seizure and task electrophysiology",
+      "ida_test": "Find mechanistic timing evidence and perturbation studies.",
+      "limit": "Electrode coverage and clinical selection prevent direct scalp transport.",
+      "priority": "Medium",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D16",
+      "name": "DANDI",
+      "source": "dandi",
+      "species": "Mixed",
+      "modality": "Cellular / systems neurophysiology",
+      "design": "NWB-oriented archive",
+      "access": "Public archive; asset licenses vary",
+      "usual_use": "Reuse electrophysiology and imaging",
+      "ida_test": "Obtain perturbation-labelled mechanistic datasets.",
+      "limit": "Animal/cellular scale needs explicit bridges to human outcomes.",
+      "priority": "Medium",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D17",
+      "name": "International Brain Laboratory",
+      "source": "ibl",
+      "species": "Animal",
+      "modality": "Spikes / behaviour / task",
+      "design": "Standardized multicentre experiments",
+      "access": "Public release via ONE; pin version and terms",
+      "usual_use": "Brain-wide decision and state representations",
+      "ida_test": "Test history, latent-state and across-lab prediction.",
+      "limit": "Mouse task dynamics are not human clinical treatment rules.",
+      "priority": "Medium",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D18",
+      "name": "Allen Brain Map",
+      "source": "allen",
+      "species": "Mixed",
+      "modality": "Cell types / anatomy / expression / physiology",
+      "design": "Atlases and experiments",
+      "access": "Project-specific downloads and terms",
+      "usual_use": "Cell taxonomy and circuit organization",
+      "ida_test": "Constrain plausible mechanisms and measurement operators.",
+      "limit": "An atlas is not a personal real-time state estimate.",
+      "priority": "Medium",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D19",
+      "name": "MICrONS",
+      "source": "microns",
+      "species": "Animal",
+      "modality": "Electron microscopy / calcium",
+      "design": "Matched structural and functional connectomics",
+      "access": "Public resource; citation and release rules",
+      "usual_use": "Structure–function and circuit models",
+      "ida_test": "Study how wiring constrains observables and dynamics.",
+      "limit": "Mouse visual cortex is neither whole-brain control nor a mental-health headband model.",
+      "priority": "Medium",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D20",
+      "name": "NCBI GEO",
+      "source": "geo",
+      "species": "Mixed",
+      "modality": "Gene expression / single-cell",
+      "design": "Study archive",
+      "access": "Browser challenge; study-level review outstanding",
+      "usual_use": "Differential expression and cell-type analyses",
+      "ida_test": "Generate molecular hypotheses with tissue/time context.",
+      "limit": "No shared participant keys or validated inference from scalp EEG to cellular redox.",
+      "priority": "Low",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D21",
+      "name": "ADNI",
+      "source": "adni",
+      "species": "Human",
+      "modality": "MRI / PET / biomarkers / cognition",
+      "design": "Disease-progression cohort",
+      "access": "Application and data-use terms",
+      "usual_use": "Progression and biomarker prediction",
+      "ida_test": "Distinguish long-term capacity changes from short-term state.",
+      "limit": "Neurodegeneration models cannot be reused as universal mental-health models.",
+      "priority": "Medium",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D22",
+      "name": "PPMI",
+      "source": "ppmi",
+      "species": "Human",
+      "modality": "Clinical / imaging / molecular / digital",
+      "design": "Longitudinal Parkinson programme",
+      "access": "Application and release-specific terms",
+      "usual_use": "Progression and disease biomarkers",
+      "ida_test": "Evaluate repeated measures and device transport questions.",
+      "limit": "Disease and intervention context must remain explicit.",
+      "priority": "Medium",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D23",
+      "name": "Natural Scenes Dataset",
+      "source": "nsd",
+      "species": "Human",
+      "modality": "High-field fMRI / stimuli",
+      "design": "Dense repeated visual experiment",
+      "access": "Primary paper checked; current download portal unresolved",
+      "usual_use": "Encoding, decoding and representation models",
+      "ida_test": "Test representation sufficiency with known stimuli.",
+      "limit": "Visual reconstruction does not imply general mind reading or treatment selection.",
+      "priority": "Low",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D24",
+      "name": "BNCI archive",
+      "source": "bnci",
+      "species": "Human",
+      "modality": "EEG / BCI / task events",
+      "design": "Benchmark collections",
+      "access": "Dataset-specific public access and terms",
+      "usual_use": "Motor imagery and evoked-response interfaces",
+      "ida_test": "Compare sparse montages and timing under known tasks.",
+      "limit": "Interface control accuracy does not establish clinical benefit.",
+      "priority": "High",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D25",
+      "name": "Roy–Nuamah HCI resilience",
+      "source": "resilience",
+      "species": "Human",
+      "modality": "HR / EDA / IBI / task performance",
+      "design": "Stress–recovery–rechallenge",
+      "access": "Downloaded and checksum verified previously",
+      "usual_use": "Physiology and task-performance association",
+      "ida_test": "Existing IDA analysis tests later challenge forecasts.",
+      "limit": "Selected peripheral residue features did not earn inclusion.",
+      "priority": "High",
+      "audit": "Numerical reanalysis completed previously"
+    },
+    {
+      "id": "D26",
+      "name": "ANTIDOTE",
+      "source": "antidote",
+      "species": "Human",
+      "modality": "Pupil / mood / assigned intervention / intrusions",
+      "design": "Randomized experimental-trauma study",
+      "access": "Numerical table downloaded from public OSF; license unresolved",
+      "usual_use": "Package efficacy and physiological associations",
+      "ida_test": "Reproduce effect; distinguish pre-decision and post-treatment information.",
+      "limit": "No isolated AI effect and no randomized pupil-guided delivery.",
+      "priority": "High",
+      "audit": "Numerical reanalysis completed previously"
+    },
+    {
+      "id": "D27",
+      "name": "EMBARC",
+      "source": "embarc",
+      "species": "Human",
+      "modality": "EEG / depression / randomized treatment",
+      "design": "Treatment-response study",
+      "access": "Raw data not obtained; access requires separate review",
+      "usual_use": "Treatment outcome prediction",
+      "ida_test": "Candidate for honest treatment-by-state interaction and policy-value tests.",
+      "limit": "A predictor can be prognostic without selecting the better treatment.",
+      "priority": "High",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    },
+    {
+      "id": "D28",
+      "name": "Scangos PR01 / closed-loop depression",
+      "source": "scangos",
+      "species": "Human",
+      "modality": "Intracranial recordings / stimulation / symptoms",
+      "design": "Personalized perturbation studies",
+      "access": "Author figure code/data; broader raw access varies",
+      "usual_use": "State-dependent response and closed-loop intervention",
+      "ida_test": "Strong mechanistic precedent for individualized response mapping.",
+      "limit": "Single-person invasive evidence does not validate noninvasive sensors or inputs.",
+      "priority": "High",
+      "audit": "Catalogue/method review; raw-data audit not completed"
+    }
+  ],
+  "failures": [
+    {
+      "id": "F01",
+      "title": "Selecting and testing on the same data",
+      "status": "Documented failure mode",
+      "source": "circular",
+      "problem": "Feature, channel, window or subgroup selection can inflate the reported effect.",
+      "repair": "Nest every fitted choice; freeze a final external test.",
+      "acceptance": "No shared person, session or overlapping segment across the claimed test boundary."
+    },
+    {
+      "id": "F02",
+      "title": "Motion becomes a brain network",
+      "status": "Documented failure mode",
+      "source": "motion",
+      "problem": "Motion can generate systematic functional-connectivity patterns.",
+      "repair": "Keep motion and censoring records; test motion-only and matched-quality baselines.",
+      "acceptance": "Effect must survive prespecified quality sensitivity analyses."
+    },
+    {
+      "id": "F03",
+      "title": "Muscle activity becomes high-frequency EEG",
+      "status": "Documented failure mode",
+      "source": "emg",
+      "problem": "Scalp high-frequency activity can contain substantial muscle contributions.",
+      "repair": "Record EOG, movement and jaw/forehead artifact checks; retain raw signals.",
+      "acceptance": "Candidate must add value beyond artifact channels."
+    },
+    {
+      "id": "F04",
+      "title": "Band power is equated with one oscillator",
+      "status": "Documented failure mode",
+      "source": "spectra",
+      "problem": "Aperiodic changes can alter power in a conventional band.",
+      "repair": "Compare periodic/aperiodic models; do not name a neurotransmitter from a band ratio.",
+      "acceptance": "Report the decomposition and sensitivity to fit choices."
+    },
+    {
+      "id": "F05",
+      "title": "Small associations become personal predictions",
+      "status": "Documented failure mode",
+      "source": "bwas",
+      "problem": "Small population associations can be unstable under resampling.",
+      "repair": "Match sample-size design to the estimand; report uncertainty and external performance.",
+      "acceptance": "Do not claim every experiment needs thousands; repeated-person experiments are different designs."
+    },
+    {
+      "id": "F06",
+      "title": "Pupil size becomes a unique transmitter meter",
+      "status": "Unsupported inverse inference",
+      "source": "pupil",
+      "problem": "Pupil covariation is not a unique assay of one transmitter or circuit.",
+      "repair": "Measure luminance, gaze, blink, task and medication context.",
+      "acceptance": "Separate human proxy validation from animal mechanistic support."
+    },
+    {
+      "id": "F07",
+      "title": "Scalp blood flow becomes cortical fNIRS",
+      "status": "Documented confounding risk",
+      "source": "fnirs",
+      "problem": "Systemic and superficial physiology can contaminate hemodynamic signals.",
+      "repair": "Include depth-sensitive controls and physiological regressors.",
+      "acceptance": "A compact optical sensor needs demonstrated cortical sensitivity."
+    },
+    {
+      "id": "F08",
+      "title": "Training a signal is assumed to treat symptoms",
+      "status": "Clinical inference gap",
+      "source": "nf",
+      "problem": "A credible matched control is needed to isolate feedback-specific benefit.",
+      "repair": "Measure independent symptoms/function and blind assessment where feasible.",
+      "acceptance": "Learning the target is an intermediate outcome, not sufficient clinical success."
+    },
+    {
+      "id": "F09",
+      "title": "Post-treatment physiology selects the earlier treatment",
+      "status": "Temporal/causal inference error",
+      "source": "antidote",
+      "problem": "A measurement caused by treatment was unavailable at the earlier choice.",
+      "repair": "Time-stamp decision, feature cutoff, action and later outcome separately.",
+      "acceptance": "Use it only for a later sequential decision in a valid design."
+    },
+    {
+      "id": "F10",
+      "title": "Prediction is substituted for treatment selection",
+      "status": "Decision-design gap",
+      "source": "embarc",
+      "problem": "A variable can predict poor outcomes under every action.",
+      "repair": "Estimate and validate treatment contrasts or policy value, not only outcome MAE.",
+      "acceptance": "Beat the best fixed action with comparable burden."
+    },
+    {
+      "id": "F11",
+      "title": "Clock alignment is assumed from a streaming library",
+      "status": "Engineering failure mode",
+      "source": "lsl",
+      "problem": "Transport timestamps do not remove all sensor, buffering and stimulus latency.",
+      "repair": "Retain raw counters and offsets; test physical marker latency.",
+      "acceptance": "State measured timing uncertainty at the relevant decision horizon."
+    },
+    {
+      "id": "F12",
+      "title": "Diagnostic categories are treated as one mechanism",
+      "status": "Framework limitation, already recognized in the field",
+      "source": "rdoc",
+      "problem": "Clinical categories need not imply a single physiological cause.",
+      "repair": "Use dimensions and competing mechanisms while retaining clinical outcomes.",
+      "acceptance": "IDA must outperform existing dimensional and history-based models."
+    },
+    {
+      "id": "F13",
+      "title": "A mouse or implanted-electrode effect is transported to a headband",
+      "status": "Unvalidated transport assumption",
+      "source": "scangos",
+      "problem": "Species, sampling geometry and available interventions change.",
+      "repair": "Require a paired measurement bridge and a separate noninvasive intervention test.",
+      "acceptance": "Conceptual similarity cannot substitute for a transport experiment."
+    },
+    {
+      "id": "F14",
+      "title": "A resting atlas is treated as a controller",
+      "status": "IDA research hypothesis",
+      "source": "mrt",
+      "problem": "Control needs action-conditioned transitions and later consequences.",
+      "repair": "Collect repeated decision opportunities with assigned actions where justified.",
+      "acceptance": "Demonstrate incremental policy value and generalization after withdrawal."
+    }
+  ],
+  "routes": [
+    {
+      "id": "P01",
+      "title": "State-guided timing of an established behavioural input",
+      "priority": "First IDA priority",
+      "source": "antidote",
+      "rationale": "An existing input can have measurable effects; physiological guidance still needs its own contrast.",
+      "next_test": "Same input/content budget: fixed versus state-guided versus matched control.",
+      "stop": "No benefit over fixed delivery after withdrawal stops the personalization claim."
+    },
+    {
+      "id": "P02",
+      "title": "EEG added to context, behaviour and peripheral physiology",
+      "priority": "First measurement priority",
+      "source": "embarc",
+      "rationale": "Scalp measurements can carry outcome information in defined settings.",
+      "next_test": "Incremental value, repeatability and treatment interaction in held-out sessions.",
+      "stop": "If simpler channels match performance, remove EEG from that use case."
+    },
+    {
+      "id": "P03",
+      "title": "Respiration / HRV biofeedback with independent outcomes",
+      "priority": "Accessible intervention candidate",
+      "source": "hrvb",
+      "rationale": "There is randomized evidence in specific populations; transfer is unresolved.",
+      "next_test": "Match instruction, attention and exposure; test the value of feedback timing.",
+      "stop": "A better HRV trace alone is insufficient."
+    },
+    {
+      "id": "P04",
+      "title": "Cue- and phase-specific updating",
+      "priority": "Mechanistic priority",
+      "source": "antidote",
+      "rationale": "Opposite phase associations motivate temporal distinctions, not causal prescriptions.",
+      "next_test": "Sequential design with pre-decision variables and later intrusive-memory or function outcomes.",
+      "stop": "Do not infer a universal arousal optimum."
+    },
+    {
+      "id": "P05",
+      "title": "Closed-loop sleep research",
+      "priority": "Technically tractable separate branch",
+      "source": "sleepinput",
+      "rationale": "EEG-timed sensory input has controlled experimental precedents.",
+      "next_test": "Verify phase timing, arousal burden and independent next-day outcomes.",
+      "stop": "No transfer to awake psychiatric treatment without separate evidence."
+    },
+    {
+      "id": "P06",
+      "title": "Personalized invasive mapping",
+      "priority": "Mechanistic precedent; specialist branch",
+      "source": "closedloop",
+      "rationale": "Individualized recording and stimulation can support clinical improvement in selected cases.",
+      "next_test": "Use published evidence to constrain hypotheses; require a scalp bridge.",
+      "stop": "No invasive stimulation implementation in the headband."
+    },
+    {
+      "id": "P07",
+      "title": "State-dependent cognitive-control intervention",
+      "priority": "Mechanistic precedent; specialist branch",
+      "source": "control",
+      "rationale": "An invasive proof-of-concept compared closed- and open-loop behavioural effects.",
+      "next_test": "Test whether noninvasive measurements and permitted inputs preserve useful distinctions.",
+      "stop": "An implanted result cannot specify scalp stimulation parameters."
+    },
+    {
+      "id": "P08",
+      "title": "tVNS and baseline-response interactions",
+      "priority": "Watch list; medical-device branch",
+      "source": "tvns",
+      "rationale": "An emerging randomized study makes response heterogeneity a testable question.",
+      "next_test": "Independent confirmation of interaction and clinically reviewed device protocol.",
+      "stop": "No stimulation circuit or dosing in IDA R1."
+    },
+    {
+      "id": "P09",
+      "title": "EEG neurofeedback for mental-health benefit",
+      "priority": "Conditional, mixed evidence",
+      "source": "nf",
+      "rationale": "Specific feedback effects require credible sham or active controls.",
+      "next_test": "Independent blinded outcome and adverse-burden comparison.",
+      "stop": "Changing a band ratio cannot be counted as symptom resolution."
+    },
+    {
+      "id": "P10",
+      "title": "Neural mechanisms linked to redox / cancer",
+      "priority": "Separate mechanistic programme",
+      "source": "geo",
+      "rationale": "Molecular datasets can constrain biology at tissue/cell scales.",
+      "next_test": "Paired measurements, defined cell types and independent causal perturbations.",
+      "stop": "Scalp signals cannot currently determine tumour redox or cancer intervention."
+    }
+  ],
+  "modalities": [
+    {
+      "name": "Scalp EEG",
+      "observes": "Millisecond electrical mixtures at the scalp",
+      "methods": "ERPs, spectra, time–frequency, decoding",
+      "strength": "High temporal resolution; portable",
+      "limit": "Reference dependence, spatial mixing, eye/muscle artifacts",
+      "decision": "R1 candidate; six EEG plus two EOG channels"
+    },
+    {
+      "name": "MEG / OPM-MEG",
+      "observes": "Magnetic fields from neural currents",
+      "methods": "Source and network models",
+      "strength": "Temporal resolution; distinct spatial sensitivity",
+      "limit": "Shielding/motion/calibration; not an ordinary headband",
+      "decision": "Reference laboratory bridge"
+    },
+    {
+      "name": "Intracranial EEG / spikes / DBS",
+      "observes": "Local electrical activity at selected sites",
+      "methods": "Timing, state decoding, perturbation response",
+      "strength": "Direct local signals; possible causal perturbations",
+      "limit": "Clinical/coverage selection and invasive intervention",
+      "decision": "Mechanistic evidence only"
+    },
+    {
+      "name": "fMRI / ASL",
+      "observes": "Hemodynamic proxies and perfusion",
+      "methods": "GLM, connectivity, representations",
+      "strength": "Whole-brain spatial coverage",
+      "limit": "Motion, vascular effects, slow observation operator",
+      "decision": "Reference mapping, not on-band measurement"
+    },
+    {
+      "name": "Structural / diffusion MRI",
+      "observes": "Anatomy and water diffusion",
+      "methods": "Morphometry, tractography",
+      "strength": "Structural constraints",
+      "limit": "Tract estimates are not measured directed control paths",
+      "decision": "Background constraints"
+    },
+    {
+      "name": "PET / MRS",
+      "observes": "Tracer-specific or metabolite-related measurements",
+      "methods": "Binding/metabolic and concentration models",
+      "strength": "Biochemical specificity within method assumptions",
+      "limit": "Cost, radiation for PET, spatial/temporal constraints",
+      "decision": "Mechanistic reference only"
+    },
+    {
+      "name": "fNIRS",
+      "observes": "Optical hemodynamic mixtures",
+      "methods": "Task and connectivity analyses",
+      "strength": "Portable optical access",
+      "limit": "Superficial/systemic contamination and geometry",
+      "decision": "Defer pending short-separation value test"
+    },
+    {
+      "name": "ECG / PPG / respiration / EDA",
+      "observes": "Peripheral physiology",
+      "methods": "Beat intervals, respiration coupling, event responses",
+      "strength": "Accessible repeated measurements",
+      "limit": "Motion, context, breathing and nonunique physiology",
+      "decision": "Separate validated peripherals, synchronized"
+    },
+    {
+      "name": "Pupillometry / gaze / EOG",
+      "observes": "Pupil diameter, eye direction and electrical eye activity",
+      "methods": "Event/phase responses and artifact control",
+      "strength": "Useful timing and engagement measurements",
+      "limit": "Lighting, blinks, effort, task and drug effects",
+      "decision": "EOG on R1; calibrated camera is optional external module"
+    },
+    {
+      "name": "Behaviour / self-report / EMA",
+      "observes": "Performance, experience and context",
+      "methods": "State-space, survival, mixed-effects and causal models",
+      "strength": "Direct relevance to meaningful outcomes",
+      "limit": "Measurement reactivity, burden and report bias",
+      "decision": "Mandatory comparator and independent endpoint"
+    },
+    {
+      "name": "Sleep / polysomnography",
+      "observes": "Multi-channel sleep physiology",
+      "methods": "Stage/transition and event detection",
+      "strength": "Natural repeated state transitions",
+      "limit": "Scoring conventions and sleep/wake transport",
+      "decision": "Separate validation branch"
+    },
+    {
+      "name": "Cellular / calcium / connectomics",
+      "observes": "Spikes, calcium proxy, cellular and synaptic structure",
+      "methods": "Encoding, circuit and cell-type models",
+      "strength": "Mechanistic constraints at finer scales",
+      "limit": "Species, sampling, calcium kinetics and scale transfer",
+      "decision": "Hypothesis constraints, not personal state labels"
+    },
+    {
+      "name": "Transcriptomics / proteomics / genetics",
+      "observes": "Molecular abundance, variation and cell identity",
+      "methods": "Differential expression, association and pathway models",
+      "strength": "Biological heterogeneity",
+      "limit": "Tissue, batch, composition and causal ambiguity",
+      "decision": "Separate paired molecular experiments"
+    }
+  ],
+  "open_coverage": [
+    "Language/speech and social-interaction datasets need deeper review.",
+    "Pain, autonomic disorders, developmental differences and medication interactions need dedicated reviews.",
+    "No comprehensive trial-registry search, screening flow or meta-analysis has been completed.",
+    "Scalp–intracranial, genetics–physiology and sensor–symptom bridges require paired data.",
+    "Dataset sizes, licenses, consent and access must be confirmed at asset level before retrieval.",
+    "Manufacturing, human fit, electrical safety, clinical efficacy and treatment optimization remain unvalidated."
+  ]
+}
