@@ -1,5 +1,7 @@
 # IDA / StateAtlas
 
+> Part of [The Bounded Observer](https://github.com/thantiklermcirony/bounded-observer). This repository holds the independently maintained StateAtlas measurement/intervention application. The [current project map](https://thantiklermcirony.github.io/bounded-observer/project.html) and [mathematical library](https://github.com/thantiklermcirony/bounded-observer/tree/main/papers) provide the common entrance. The sources below retain their versions, premises, licences and individual outcomes.
+
 **The experimental instrument of [The Empirical Architecture](https://github.com/thantiklermcirony/empirical-architecture).**
 
 IDA investigates which measurements distinguish states that need different interventions, and whether using those distinctions improves later outcomes. StateAtlas makes that question explorable through a working research application.
